@@ -1,0 +1,6 @@
+@Daarmoon_HostAddress = http://localhost:5174
+
+GET {{Daarmoon_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
